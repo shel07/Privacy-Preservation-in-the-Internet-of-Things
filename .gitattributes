@@ -2,3 +2,4 @@
 * text=auto
 README.md filter=lfs diff=lfs merge=lfs -text
 Location_Privacy_Preservation.zip filter=lfs diff=lfs merge=lfs -text
+Internet[[:space:]]of[[:space:]]Things[[:space:]]privacy.zip filter=lfs diff=lfs merge=lfs -text
